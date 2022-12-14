@@ -1,5 +1,9 @@
 # Olá! Me chamo Luís Santini.
 
+<p align="center">
+  <a href="mailto:luissantini431@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
 * Linguagens e Ferramentas
 
 <div style="display: inline-block;">
