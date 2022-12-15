@@ -1,5 +1,6 @@
 # Olá! Me chamo Luís Santini.
 
+<p align="center">Format de contato</p>
 <p align="center">
   <a href="mailto:luissantini431@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
@@ -20,7 +21,7 @@
   <img alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="35"/>
 </div>
 
-* Contatos
+* Redes Sociais
 
 <div style="display: inline-block";>
   <img alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
