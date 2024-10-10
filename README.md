@@ -21,10 +21,4 @@
   <img alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="35"/>
 </div>
 
-* Redes Sociais
-
-<div style="display: inline-block";>
-  <img alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
-</div>
-
 ![Luís's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiss4ntini&theme=tokyonight&show_icons=true)
