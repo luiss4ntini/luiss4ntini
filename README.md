@@ -1,24 +1,15 @@
-# Olá! Me chamo Luís Santini.
+# Olá! Eu sou o Luis 👋
 
-<p align="center">Format de contato</p>
-<p align="center">
-  <a href="mailto:luissantini431@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+🎓 Estudante de Engenharia de Software na UniCesumar  
+💻 Focado em desenvolvimento Fullstack  
+🚀 Explorando tecnologias como React, Node.js, TypeScript e PostgreSQL  
+📫 Contato: [email](mailto:luissantinicwb@gmail.com)
 
-* Linguagens e Ferramentas
+## 🧰 Tecnologias
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-<div style="display: inline-block;">
-  <img alt="Bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="35"/>
-  <img alt="Debian" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" width="35"/>
-  <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35"/>
-  <img alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35"/>
-  <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35"/>
-  <img alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="35"/>
-  <img alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="35"/>
-  <img alt="VStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35"/>
-  <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="35"/>
-  <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35"/>
-  <img alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="35"/>
-</div>
-
-![Luís's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiss4ntini&theme=tokyonight&show_icons=true)
+<!-- ## 📈 GitHub Stats -->
+<!-- ![GitHub](https://github-readme-stats.vercel.app/api?username=luiss4ntini&show_icons=true&theme=dark) -->
